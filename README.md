@@ -6,8 +6,16 @@ Once this repo has been setup on Codacy by the TTL, replace the above badge with
 # Table test
 | Picture | Team Role | Name | Country | City |Github|
 |---------|-----------|------|---------|------|------|
-|<img src="src/logos/2grow2LogoDraft.png" align="centre" height="100">|Team Member|Betsie Drost|South Africa|Pretoria|BetsieDrost|
-
+|<img src="src/logos/2grow2LogoDraft.png" align="centre" height="100">|Andela Team Assistant|Jida|Country|City|Github|
+|<img src="src/Team pictures/Miami.png" align="centre" height="100">|Team Mentor|Miami Larry|Kenya|City|miami78|
+|<img src="src/Team pictures/Sandile.png" align="centre" height="100">|Team Technical Lead|South Africa|Johannesburg|Crazzyson|
+|<img src="src/Team pictures/EJ Drost.png" align="centre" height="100">|Team Member|Betsie Drost|South Africa|Pretoria|BetsieDrost|
+|<img src="src/logos/2grow2LogoDraft.png" align="centre" height="100">|Team Member|Samukelo Jiyane|South Africa|Randburg|myjiyane|
+|<img src="src/Team pictures/Kamo.png" align="centre" height="100">|Team Member|Kamohelo Mohlabula|South Africa|Bloemfontein|kxmo-ai|
+|<img src="src/logos/2grow2LogoDraft.png" align="centre" height="100">|Team Member|Phumlani Langa|South Africa|Soweto|Github|
+|<img src="src/Team pictures/Dibwe.png" align="centre" height="100">|Team Member|Dibwe Kalangu|South Africa|Johannesburg|leanny01|
+|<img src="src/logos/2grow2LogoDraft.png" align="centre" height="100">|Team Member|Bruce Kotsi|South Africa|Soweto|JR96|
+|<img src="src/logos/2grow2LogoDraft.png" align="centre" height="100">|Team Member|Khumo Letlape|South Africa|Rustenburg|github|
 
 ## About
 <h2>BuildforSDG Challenge 2020 - Team 262 Project - 2Grow2</h2>
@@ -15,7 +23,7 @@ Once this repo has been setup on Codacy by the TTL, replace the above badge with
 <article>
 	
 <img src="src/logos/2grow2LogoDraft.png" align="center" height="300">
-
+<img src="src/SDG Icons 2019_WEB/E-WEB-Goal-02.png" height="300">
 This project originated as part of the BuildforSDG2020 Challenge with Andela and Facebook, which aims to give development experience to software developers in Africa.
 
 <img src="src/SDG Icons 2019_WEB/BuildforSDGlogo.jpg"  height = "200" style="text-align: center" >
@@ -50,7 +58,7 @@ Our team selected the SDG 2, Problem Statement 1.
 			<td><img src="src/SDG Icons 2019_WEB/E-WEB-Goal-02.png" height="200"></td>
 			<td>Yes</td>
 			
-			<td><p>GOAL SUMMARY</p>
+			<td><h3>GOAL SUMMARY</h3>
 				<p>Goal 2 aims to end hunger and malnutrition by 2030, and to ensure access to safe, nutritious and sufficient food. 
 				Our planet has provided us with tremendous resources, but unequal access and inefficient handling 
 				leaves millions of people malnourished. If we promote sustainable agriculture with modern technologies
