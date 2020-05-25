@@ -4,6 +4,7 @@ barebones setup for JavaScript / Node projects replace this with a one-liner phr
 
 
 ## About
+[!image](./src/logos/2grow2LogoDrafg.png)
 
 What is this project about. Ok to enrich here or the section above it with an image. 
 
