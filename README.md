@@ -8,16 +8,21 @@ Once this repo has been setup on Codacy by the TTL, replace the above badge with
 <h2>BuildforSDG Challenge 2020 - Team 262 Project - 2Grow2</h2>
 
 <article>
-	
-<img src="src/logos/2grow2LogoDraft.png" align="center" height="300">
+These are our project logos: 
+Color: 
+<img src="src/logos/2grow2LogoDraft.png" align="center" height="300" width="300" >
+Black and white: 
+<img src="src/logos/2grow2LogoBWonBlack.png" align="center" height="300" width="300" >
+White and black: 
+<img src="src/logos/2grow2LogoBWonWhite.png" align="center" height="300" width="300" >
 
 This project originated as part of the BuildforSDG2020 Challenge with Andela and Facebook, which aims to give development experience to software developers in Africa.
 
-<img src="src/SDG Icons 2019_WEB/BuildforSDGlogo.jpg"  height = "200" style="text-align: center" >
+<img src="src/SDG Icons 2019_WEB/BuildforSDGlogo.jpg"  height = "300" style="text-align: center" >
 
 Teams could select a problem statement to build a solution for from a list of approved problem statements listed under the Sustainable Development Goals. 
 
-<img src="src/SDG Icons 2019_WEB/E_SDG_logo_without_UN_emblem_square_WEB.png.png" height="300">
+<img src="src/SDG Icons 2019_WEB/E_SDG_logo_without_UN_emblem_square_WEB.png.png" height="300" width ="300">
 
 
 </article>
@@ -33,7 +38,7 @@ Our team selected the SDG 2, Problem Statement 1.
 ## SDG PROBLEM STATEMENT SUMMARY
 ### Goal Summary
 
-<img src="src/SDG Icons 2019_WEB/E-WEB-Goal-02.png" height="200">
+<img src="src/SDG Icons 2019_WEB/E-WEB-Goal-02.png" height="300" width ="300">
 
 Goal 2 aims to end hunger and malnutrition by 2030, and to ensure access to safe, nutritious and sufficient food. 
 Our planet has provided us with tremendous resources, but unequal access and inefficient handling leaves millions of people malnourished. If we promote sustainable agriculture with modern technologiesand fair distribution systems, we
@@ -60,16 +65,16 @@ If your community can double the agricultural production and income of small-sca
 ### Team Members
 | Picture | Team Role | Name | Country | City |Github|
 |---------|-----------|------|---------|------|------|
-|<img src="src/logos/2grow2LogoDraft.png" align="centre" height="100">|Andela Team Assistant|Jida|Country|City|Github|
-|<img src="src/Team pictures/Miami.jpg" align="centre" height="100">|Team Mentor|Miami Larry|Kenya|City|miami78|
-|<img src="src/Team pictures/Sandile.jpg" align="centre" height="100">|Team Technical Lead|Sandile Magagula|South Africa|Johannesburg|Crazzyson|
-|<img src="src/Team pictures/EJ Drost.jpg" align="centre" height="100">|Team Member|Betsie Drost|South Africa|Pretoria|BetsieDrost|
-|<img src="src/logos/2grow2LogoDraft.png" align="centre" height="100">|Team Member|Samukelo Jiyane|South Africa|Randburg|myjiyane|
-|<img src="src/Team pictures/Kamo.jpg" align="centre" height="100">|Team Member|Kamohelo Mohlabula|South Africa|Bloemfontein|kxmo-ai|
-|<img src="src/logos/2grow2LogoDraft.png" align="centre" height="100">|Team Member|Phumlani Langa|South Africa|Soweto|Github|
-|<img src="src/Team pictures/Dibwe.jpg" align="centre" height="100">|Team Member|Dibwe Kalangu|South Africa|Johannesburg|leanny01|
-|<img src="src/logos/2grow2LogoDraft.png" align="centre" height="100">|Team Member|Bruce Kotsi|South Africa|Soweto|JR96|
-|<img src="src/logos/2grow2LogoDraft.png" align="centre" height="100">|Team Member|Khumo Letlape|South Africa|Rustenburg|github|
+|<img src="src/logos/2grow2LogoDraft.png" align="centre" height="100" width ="100">|Andela Team Assistant|Jida|Country|City|Github|
+|<img src="src/Team pictures/Miami.jpg" align="centre" height="100" width ="100">|Team Mentor|Miami Larry|Kenya|City|miami78|
+|<img src="src/Team pictures/Sandile.jpg" align="centre" height="100" width ="100">|Team Technical Lead|Sandile Magagula|South Africa|Johannesburg|Crazzyson|
+|<img src="src/Team pictures/EJ Drost.jpg" align="centre" height="100" width ="100">|Team Member|Betsie Drost|South Africa|Pretoria|BetsieDrost|
+|<img src="src/logos/2grow2LogoDraft.png" align="centre" height="100" width ="100">|Team Member|Samukelo Jiyane|South Africa|Randburg|myjiyane|
+|<img src="src/Team pictures/Kamo.jpg" align="centre" height="100" width ="100">|Team Member|Kamohelo Mohlabula|South Africa|Bloemfontein|kxmo-ai|
+|<img src="src/logos/2grow2LogoDraft.png" align="centre" height="100" width ="100">|Team Member|Phumlani Langa|South Africa|Soweto|Github|
+|<img src="src/Team pictures/Dibwe.jpg" align="centre" height="100" width ="100">|Team Member|Dibwe Kalangu|South Africa|Johannesburg|leanny01|
+|<img src="src/logos/2grow2LogoDraft.png" align="centre" height="100" width ="100">|Team Member|Bruce Kotsi|South Africa|Soweto|JR96|
+|<img src="src/logos/2grow2LogoDraft.png" align="centre" height="100" width ="100">|Team Member|Khumo Letlape|South Africa|Rustenburg|github|
 
 
 	
