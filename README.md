@@ -5,7 +5,7 @@ barebones setup for JavaScript / Node projects replace this with a one-liner phr
 
 ## About
 ![image](2grow2LogoDraft.png)
-
+<img src="src/logos/2grow2LogoDraft.png" align="left" height="48">
 What is this project about. Ok to enrich here or the section above it with an image. 
 
 Once this repo has been setup on Codacy by the TTL, replace the above badge with the actual one from the Codacy dashboard, and add the code coverage badge as well. This is mandatory
