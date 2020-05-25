@@ -6,10 +6,7 @@ Once this repo has been setup on Codacy by the TTL, replace the above badge with
 # Table test
 | Picture | Team Role | Name | Country | City |Github|
 |---------|-----------|------|---------|------|------|
-|mg src="src/logos/2grow2LogoDraft.png" align="centre" height="100">|Team Member|t|Betsie Drost|South Africa|Pretoria|BetsieDrost|
-
-
-
+|<img src="src/logos/2grow2LogoDraft.png" align="centre" height="100">|Team Member|Betsie Drost|South Africa|Pretoria|BetsieDrost|
 
 
 ## About
@@ -17,15 +14,15 @@ Once this repo has been setup on Codacy by the TTL, replace the above badge with
 
 <article>
 	
-<img src="src/logos/2grow2LogoDraft.png" align="centre" height="300">
+<img src="src/logos/2grow2LogoDraft.png" align="center" height="300">
 
 This project originated as part of the BuildforSDG2020 Challenge with Andela and Facebook, which aims to give development experience to software developers in Africa.
 
-<img src="src/SDG Icons 2019_WEB/BuildforSDGlogo.jpg" width="600" height = "200" style="text-align: center" >
+<img src="src/SDG Icons 2019_WEB/BuildforSDGlogo.jpg"  height = "200" style="text-align: center" >
 
 Teams could select a problem statement to build a solution for from a list of approved problem statements listed under the Sustainable Development Goals. 
 
-<img src="SDG Icons 2019_WEB/E_SDG_logo_without_UN_emblem_square_WEB.png.png" height="300">
+<img src="src/SDG Icons 2019_WEB/E_SDG_logo_without_UN_emblem_square_WEB.png.png" height="300">
 
 
 </article>
@@ -34,7 +31,7 @@ Teams could select a problem statement to build a solution for from a list of ap
 			
 ## Why
 <article>
-	<p>Our team selected the SDG 2, Problem Statement 1.</p>
+Our team selected the SDG 2, Problem Statement 1.
 
 	<table>
 		<table-caption>			
