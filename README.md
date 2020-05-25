@@ -6,7 +6,7 @@ Once this repo has been setup on Codacy by the TTL, replace the above badge with
 # Table test
 | Picture | Team Role | Name | Country | City |Github|
 |---------|-----------|------|---------|------|------|
-|<img src= "src/Team pictures/EJ Drost.jpg", height = "100", width = "100">|Team Member|Elizabeth Josepha Drost|Betsie Drost|South Africa|Pretoria|BetsieDrost|
+|mg src="src/logos/2grow2LogoDraft.png" align="centre" height="100">|Team Member|t|Betsie Drost|South Africa|Pretoria|BetsieDrost|
 
 
 
@@ -14,23 +14,23 @@ Once this repo has been setup on Codacy by the TTL, replace the above badge with
 
 ## About
 <h2>BuildforSDG Challenge 2020 - Team 262 Project - 2Grow2</h2>
+
 <article>
 	
 <img src="src/logos/2grow2LogoDraft.png" align="centre" height="300">
 
 This project originated as part of the BuildforSDG2020 Challenge with Andela and Facebook, which aims to give development experience to software developers in Africa.
 
-<img src="src/SDG Icons 2019_WEB/BuildforSDGlogo.jpg" width="800" height = "400" style="text-align: center" >
+<img src="src/SDG Icons 2019_WEB/BuildforSDGlogo.jpg" width="600" height = "200" style="text-align: center" >
 
+Teams could select a problem statement to build a solution for from a list of approved problem statements listed under the Sustainable Development Goals. 
 
-	<p> Teams could select a problem statement to build a solution for from a list of approved problem statements listed under the Sustainable Development Goals. 
+<img src="SDG Icons 2019_WEB/E_SDG_logo_without_UN_emblem_square_WEB.png.png" height="300">
 
-		<img src="SDG Icons 2019_WEB/E_SDG_logo_without_UN_emblem_square_WEB.png.png" height="300">
-	</p>
 
 </article>
 
-	<hr/>
+<hr/>
 			
 ## Why
 <article>
