@@ -1,20 +1,20 @@
 barebones setup for JavaScript / Node projects replace this with a one-liner phrase describing this project or app
 
 [![Codacy Badge](https://img.shields.io/badge/Code%20Quality-D-red)](https://img.shields.io/badge/Code%20Quality-D-red)
+Once this repo has been setup on Codacy by the TTL, replace the above badge with the actual one from the Codacy dashboard, and add the code coverage badge as well. This is mandatory
+
 
 
 ## About
-![image](2grow2LogoDraft.png)
-<img src="src/logos/2grow2LogoDraft.png" align="left" height="48">
+This project originated as part of the BuildforSDG2020 Challenge with Andela and Facebook, which aims to give development experience to software developers in Africa.
+
+<img src="src/logos/2grow2LogoDraft.png" align="center" height="300">
+
 What is this project about. Ok to enrich here or the section above it with an image. 
 
-Once this repo has been setup on Codacy by the TTL, replace the above badge with the actual one from the Codacy dashboard, and add the code coverage badge as well. This is mandatory
 
 This is a simple JavaScript starter repo template for setting up your project. The setup contains
 
-- Jest: For runnung tests. We strongly recommend that JavaScript projects use Jest
-
-- Eslint & Prettier: For formatting code to match ESlint AirBnB coding standard. You might need to install the ESlint and Prettier plugins for your code editor to make the most of these utilities
 
 ## Why
 
@@ -26,28 +26,111 @@ Talk about what problem this solves, what SDG(s) and SGD targets it addresses an
 
 ## Setup
 
-Install `npm` or `yarn` if you dont have any of them already installed. We recommend Yarn though.
-
-After clonning the repo to your local machine and moving into the cloned folder, Run `yarn install` to get started by installing dependencies. 
-
-`src/index.js` is the entry to the project and source code should go into the `src` folder.
-
-All tests should be written in the `__tests__' folder. There's a sample in there.
-
-This starter uses [Parcel](https://parceljs.org/getting_started.html) as the bundler. It is much simpler that WebPack and the others
-
 #### Hints
 
-- Run `npm install` or `yarn install` to get started. We'll assume you are using Yarn.
-- Install additional dependencies: `yarn add <dependency-name> [-D]`
-- Run tests: `yarn test`
-- Run tests with test coverage info: `yarn test:cover`
-- Check the codebase for proper syntax and formatting compliance: `yarn lint`
-- Run your app in local dev mode: `yarn start`. This puts the bundled app in a `dist` folder, set up a local web server at localhost:1234, and continues to watch for your code changes which it syncs with the local server. This means if you loaded the app in a browser, it will auto-refresh as you code along. Feel free to use whatever bundler best meets your needs. Parcel was only added as a sample and for those looking for a simple but effective solution to the hassle of bundlers. 
-
 ## Authors
-
-List the team behind this project. Their names linked to their Github, LinkedIn, or Twitter accounts should siffice. Ok to signify the role they play in the project, including the TTL and mentor
+<article>
+	<h2>
+	BuildforSDG Challenge 2020 - Team 262 Project - 2Grow2
+	</h2>
+	</article>
+	
+	<table>
+		<tr>
+			<th> Picture </th>
+			<th>Team Role</th>
+			<th>Member full name</th>
+			<th>Member Display name</th>
+			<th>Member Country</th>
+			<th>Member City</th>
+			<th>Github</th>
+		</tr>
+		<tr>
+			<td> Picture </td>
+			<td>Andela Team Assistant</td>
+			<td>Jida</td>
+			<td>Jida</td>
+			<td>Member Country</td>
+			<td>Member City</td>
+			<td>Github</td>
+		</tr>
+		<tr>
+			<td> <img src= "src/Team pictures/Miami.jpg", height = "100", width = "100">
+			<td>Mentor</td>
+			<td>Miami Larry</td>
+			<td>Miami Larry</td>
+			<td>Kenya</td>
+			<td>Nairobi</td>
+			<td>Github</td>
+		</tr>
+		
+		<tr>
+			<td> <img src= "src/Team pictures/Sandile.jpg", height = "100", width = "100"> </td>
+			<td>Team Technical Lead</td>
+			<td>Muzi Sandile Magagula</td>
+			<td>Sandile</td>
+			<td>South Africa</td>
+			<td>Johannesburg</td>
+			<td>Crazzyson</td>
+		<tr>
+		<tr>
+			<td> <img src= "src/Team pictures/EJ Drost.jpg", height = "100", width = "100"> </td>
+			<td>Team Member</td>
+			<td>Elizabeth Josepha Drost</td>
+			<td>Betsie Drost</td>
+			<td>South Africa</td>
+			<td>Pretoria</td>
+			<td>BetsieDrost</td>
+		</tr>
+		</tr>
+			<td> <img src= "src/Team pictures/Kamo.jpg", height = "100", width = "100"> </td>> Picture </td>
+			<td>Team member</td>
+			<td>Kamohelo Mohlabula</td>
+			<td>Kxmo</td>
+			<td>South Africa</td>
+			<td>Bloemfontein</td>
+			<td>Github</td>
+		</tr>
+		<tr>
+			<td> Picture </td>
+			<td>Team member</td>
+			<td>Salthiel Khumo Letlape</td>
+			<td>Khumo</td>
+			<td>South Africa</td>
+			<td>Rustenburg</td>
+			<td>Member url<td>
+			<td>Github</td>
+		</tr>
+			<td> Picture </td>
+			<td>Team member</td>
+			<td>Samukelo Jiyane</td>
+			<td>Samke</td>
+			<td>South Africa</td>
+			<td>Randburg</td>
+			<td>Github</td>
+		</tr>
+		
+		</tr>
+			<td> Picture </td>
+			<td>Team member</td>
+			<td>Phumlani Langa</td>
+			<td>Phumlani</td>
+			<td>South Africa</td>
+			<td>Member City</td>
+			<td>Github</td>
+		</tr>
+		</tr>
+			<td> <img src= "Team pictures/Dibwe.jpg", height = "100", width = "100"> </td>
+			<td>Team member</td>
+			<td>Dibwe Kalangu</td>
+			<td>Dibwe Kalangu</td>
+			<td>South Africa</td>
+			<td>Member City</td>
+			<td>leanny01</td>
+		</tr>
+		
+	</table>
+</article>
 
 ## Contributing
 If this project sounds interesting to you and you'd like to contribute, thank you!
