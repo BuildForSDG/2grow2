@@ -3,15 +3,20 @@ barebones setup for JavaScript / Node projects replace this with a one-liner phr
 [![Codacy Badge](https://img.shields.io/badge/Code%20Quality-D-red)](https://img.shields.io/badge/Code%20Quality-D-red)
 Once this repo has been setup on Codacy by the TTL, replace the above badge with the actual one from the Codacy dashboard, and add the code coverage badge as well. This is mandatory
 
+# Table test
+| Picture | Team Role | Name | Country | City |Github|
+|---------|-----------|------|---------|------|------|
+|<img src= "src/Team pictures/EJ Drost.jpg", height = "100", width = "100">|Team Member|Elizabeth Josepha Drost|Betsie Drost|South Africa|Pretoria|BetsieDrost|
+
+
+
 
 
 ## About
-<h2>
-	BuildforSDG Challenge 2020 - Team 262 Project - 2Grow2
-	</h2>
-	</article>
+<h2>BuildforSDG Challenge 2020 - Team 262 Project - 2Grow2</h2>
+<article>
 	
-<img src="src/logos/2grow2LogoDraft.png" align="center" height="300">
+<img src="src/logos/2grow2LogoDraft.png" align="centre" height="300">
 
 This project originated as part of the BuildforSDG2020 Challenge with Andela and Facebook, which aims to give development experience to software developers in Africa.
 
@@ -22,6 +27,8 @@ This project originated as part of the BuildforSDG2020 Challenge with Andela and
 
 		<img src="SDG Icons 2019_WEB/E_SDG_logo_without_UN_emblem_square_WEB.png.png" height="300">
 	</p>
+
+</article>
 
 	<hr/>
 			
