@@ -6,19 +6,64 @@ Once this repo has been setup on Codacy by the TTL, replace the above badge with
 
 
 ## About
-This project originated as part of the BuildforSDG2020 Challenge with Andela and Facebook, which aims to give development experience to software developers in Africa.
-
+<h2>
+	BuildforSDG Challenge 2020 - Team 262 Project - 2Grow2
+	</h2>
+	</article>
+	
 <img src="src/logos/2grow2LogoDraft.png" align="center" height="300">
 
-What is this project about. Ok to enrich here or the section above it with an image. 
+This project originated as part of the BuildforSDG2020 Challenge with Andela and Facebook, which aims to give development experience to software developers in Africa.
+
+<img src="src/SDG Icons 2019_WEB/BuildforSDGlogo.jpg" width="800" height = "400" style="text-align: center" >
 
 
-This is a simple JavaScript starter repo template for setting up your project. The setup contains
+	<p> Teams could select a problem statement to build a solution for from a list of approved problem statements listed under the Sustainable Development Goals. 
 
+		<img src="SDG Icons 2019_WEB/E_SDG_logo_without_UN_emblem_square_WEB.png.png" height="300">
+	</p>
 
+	<hr/>
+			
 ## Why
+<article>
+	<p>Our team selected the SDG 2, Problem Statement 1.</p>
 
-Talk about what problem this solves, what SDG(s) and SGD targets it addresses and why these are imoirtant
+	<table>
+		<table-caption>			
+			<h1 style= "text-align:center; color:blue">TEAM 262 SDG PROBLEM STATEMENT SUMMARY</h1>
+			<h5>(source:<a href=https://buildforsdg.andela.com/projects target="_blank"> https://buildforsdg.andela.com/projects)</a></h5>
+		<table-caption>
+					
+		<tr> 
+			<th>SDG</th>
+			<th>Approved</th>
+			<th>Goal Summary</th>
+			<th>Problem Statement 1</th>
+		</tr>
+		
+		<tr> 
+			<td><img src="src/SDG Icons 2019_WEB/E-WEB-Goal-02.png" height="200"></td>
+			<td>Yes</td>
+			
+			<td><p>GOAL SUMMARY</p>
+				<p>Goal 2 aims to end hunger and malnutrition by 2030, and to ensure access to safe, nutritious and sufficient food. 
+				Our planet has provided us with tremendous resources, but unequal access and inefficient handling 
+				leaves millions of people malnourished. If we promote sustainable agriculture with modern technologies
+				and fair distribution systems, we can help sustain the whole world’s population and help make sure that
+				nobody will ever suffer from hunger again.<p></td>
+			
+			<td><p>PROBLEM STATEMENT 1:</p>
+				<p>Build a solution that can help to double productivity for small scale food producers in your community.
+				This solution could be financial or allow them access opportunities, bigger markets etc.</p>
+
+				<p>OVERVIEW - HELP DOUBLE THE PRODUCTIVITY AND INCOMES OF SMALL_SCSLE FOOD PRODUCERS</p>
+
+				<p>If your community can double the agricultural production and income of small-scale food producers, in particular women, family farmers, animal and fish farmers, by creating access to to land, technical knowledge, financial services, markets and opportunities then we can double the 	productivity and incomes of small-scale food producers.</p>
+			</td>
+		</tr>
+	</table>
+</article>
 
 ## Usage
  How would someone use what you have built, include URLs to the deployed app, service e.t.c when you have it setup
@@ -33,6 +78,7 @@ Talk about what problem this solves, what SDG(s) and SGD targets it addresses an
 	<h2>
 	BuildforSDG Challenge 2020 - Team 262 Project - 2Grow2
 	</h2>
+	<h1>Team Members</h1>
 	</article>
 	
 	<table>
@@ -45,6 +91,7 @@ Talk about what problem this solves, what SDG(s) and SGD targets it addresses an
 			<th>Member City</th>
 			<th>Github</th>
 		</tr>
+		
 		<tr>
 			<td> Picture </td>
 			<td>Andela Team Assistant</td>
@@ -54,6 +101,7 @@ Talk about what problem this solves, what SDG(s) and SGD targets it addresses an
 			<td>Member City</td>
 			<td>Github</td>
 		</tr>
+		
 		<tr>
 			<td> <img src= "src/Team pictures/Miami.jpg", height = "100", width = "100">
 			<td>Mentor</td>
@@ -72,7 +120,8 @@ Talk about what problem this solves, what SDG(s) and SGD targets it addresses an
 			<td>South Africa</td>
 			<td>Johannesburg</td>
 			<td>Crazzyson</td>
-		<tr>
+		</tr>
+		
 		<tr>
 			<td> <img src= "src/Team pictures/EJ Drost.jpg", height = "100", width = "100"> </td>
 			<td>Team Member</td>
@@ -82,7 +131,8 @@ Talk about what problem this solves, what SDG(s) and SGD targets it addresses an
 			<td>Pretoria</td>
 			<td>BetsieDrost</td>
 		</tr>
-		</tr>
+		
+		<tr>
 			<td> <img src= "src/Team pictures/Kamo.jpg", height = "100", width = "100"> </td>> Picture </td>
 			<td>Team member</td>
 			<td>Kamohelo Mohlabula</td>
@@ -91,6 +141,7 @@ Talk about what problem this solves, what SDG(s) and SGD targets it addresses an
 			<td>Bloemfontein</td>
 			<td>Github</td>
 		</tr>
+		
 		<tr>
 			<td> Picture </td>
 			<td>Team member</td>
@@ -98,9 +149,10 @@ Talk about what problem this solves, what SDG(s) and SGD targets it addresses an
 			<td>Khumo</td>
 			<td>South Africa</td>
 			<td>Rustenburg</td>
-			<td>Member url<td>
 			<td>Github</td>
 		</tr>
+		
+		<tr>
 			<td> Picture </td>
 			<td>Team member</td>
 			<td>Samukelo Jiyane</td>
@@ -119,8 +171,9 @@ Talk about what problem this solves, what SDG(s) and SGD targets it addresses an
 			<td>Member City</td>
 			<td>Github</td>
 		</tr>
-		</tr>
-			<td> <img src= "Team pictures/Dibwe.jpg", height = "100", width = "100"> </td>
+		
+		<tr>
+			<td> <img src= "src/Team pictures/Dibwe.jpg", height = "100", width = "100"> </td>
 			<td>Team member</td>
 			<td>Dibwe Kalangu</td>
 			<td>Dibwe Kalangu</td>
