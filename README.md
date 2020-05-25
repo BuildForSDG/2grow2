@@ -5,16 +5,7 @@ Once this repo has been setup on Codacy by the TTL, replace the above badge with
 
 
 ## About
-<h2>BuildforSDG Challenge 2020 - Team 262 Project - 2Grow2</h2>
-
-<article>
-These are our project logos: 
-Color: 
-<img src="src/logos/2grow2LogoDraft.png" align="center" height="300" width="300" >
-Black and white: 
-<img src="src/logos/2grow2LogoBWonBlack.png" align="center" height="300" width="300" >
-White and black: 
-<img src="src/logos/2grow2LogoBWonWhite.png" align="center" height="300" width="300" >
+### BuildforSDG Challenge 2020 - Team 262 Project - 2Grow2
 
 This project originated as part of the BuildforSDG2020 Challenge with Andela and Facebook, which aims to give development experience to software developers in Africa.
 
@@ -22,21 +13,17 @@ This project originated as part of the BuildforSDG2020 Challenge with Andela and
 
 Teams could select a problem statement to build a solution for from a list of approved problem statements listed under the Sustainable Development Goals. 
 
-<img src="src/SDG Icons 2019_WEB/E_SDG_logo_without_UN_emblem_square_WEB.png.png" height="300" width ="300">
-
-
-</article>
-
-
+These are our project logos: 
+Color: <img src="src/logos/2grow2LogoDraft.png" align="center" height="200" width="200" >
+Black and white: <img src="src/logos/2grow2LogoBWonBlack.png" align="center" height="200" width="200" >
+White and black: <img src="src/logos/2grow2LogoBWonWhite.png" align="center" height="200" width="200" >
 			
 ## Why
-
-
 Our team selected the SDG 2, Problem Statement 1.
 
 
 ## SDG PROBLEM STATEMENT SUMMARY
-### Goal Summary
+###  Goal Summary
 
 <img src="src/SDG Icons 2019_WEB/E-WEB-Goal-02.png" height="300" width ="300">
 
@@ -68,7 +55,7 @@ If your community can double the agricultural production and income of small-sca
 |<img src="src/logos/2grow2LogoDraft.png" align="centre" height="100" width ="100">|Andela Team Assistant|Jida|Country|City|Github|
 |<img src="src/Team pictures/Miami.jpg" align="centre" height="100" width ="100">|Team Mentor|Miami Larry|Kenya|City|miami78|
 |<img src="src/Team pictures/Sandile.jpg" align="centre" height="100" width ="100">|Team Technical Lead|Sandile Magagula|South Africa|Johannesburg|Crazzyson|
-|<img src="src/Team pictures/EJ Drost.jpg" align="centre" height="100" width ="100">|Team Member|Betsie Drost|South Africa|Pretoria|BetsieDrost|
+|<img src="src/Team pictures/EJ Drost.JPG" align="centre" height="100" width ="100">|Team Member|Betsie Drost|South Africa|Pretoria|BetsieDrost|
 |<img src="src/logos/2grow2LogoDraft.png" align="centre" height="100" width ="100">|Team Member|Samukelo Jiyane|South Africa|Randburg|myjiyane|
 |<img src="src/Team pictures/Kamo.jpg" align="centre" height="100" width ="100">|Team Member|Kamohelo Mohlabula|South Africa|Bloemfontein|kxmo-ai|
 |<img src="src/logos/2grow2LogoDraft.png" align="centre" height="100" width ="100">|Team Member|Phumlani Langa|South Africa|Soweto|Github|
