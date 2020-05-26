@@ -15,12 +15,12 @@ Teams could select a problem statement to build a solution for from a list of ap
 
 These are our project logos: 
 
-Color: <img src="src/logos/2grow2LogoDraft.png" align="center" height="200" width="200" >
+Color: <img src="src/images/logos/2grow2LogoDraft.png" align="center" height="200" width="200" >
 
 
-Black and white: <img src="src/logos/2grow2LogoBWonBlack.png" align="center" height="200" width="200" >
+Black and white: <img src="src/images/logos/2grow2LogoBWonBlack.png" align="center" height="200" width="200" >
 
-White and black: <img src="src/logos/2grow2LogoBWonWhite.png" align="center" height="200" width="200" >
+White and black: <img src="src/images/logos/2grow2LogoBWonWhite.png" align="center" height="200" width="200" >
 			
 ## Why
 Our team selected the SDG 2, Problem Statement 1.
@@ -29,7 +29,7 @@ Our team selected the SDG 2, Problem Statement 1.
 ## SDG PROBLEM STATEMENT SUMMARY
 ###  Goal Summary
 
-<img src="src/SDG Icons 2019_WEB/E-WEB-Goal-02.png" height="300" width ="300">
+<img src="src/images/SDG Icons 2019_WEB/E-WEB-Goal-02.png" height="300" width ="300">
 
 Goal 2 aims to end hunger and malnutrition by 2030, and to ensure access to safe, nutritious and sufficient food. 
 Our planet has provided us with tremendous resources, but unequal access and inefficient handling leaves millions of people malnourished. If we promote sustainable agriculture with modern technologiesand fair distribution systems, we
@@ -57,7 +57,7 @@ Other involved parties will be transportation service providers and food aggrega
  
 #### 1.4 Solution structure: 
 
-<img src="src/images/MainIdeaDiagram.PNG" align="centre" height="200" width ="600">
+<img src="src/images/Diagrams/MainIdeaDiagram.PNG" align="centre" height="200" width ="600">
 
 
 #### 1.5 Does this project idea solve the stated problem statement?  
@@ -78,16 +78,16 @@ Yes – This solution will assist small scale farmers to double both their produ
 ### Team Members
 | Picture | Team Role | Name | Country | City |Github|
 |---------|-----------|------|---------|------|------|
-|<img src="src/logos/2grow2LogoDraft.png" align="centre" height="100" width ="100">|Andela Team Assistant|Jida|Country|City|Github|
-|<img src="src/Team pictures/Miami.jpg" align="centre" height="100" width ="100">|Team Mentor|Miami Larry|Kenya|City|miami78|
-|<img src="src/Team pictures/Sandile.jpg" align="centre" height="100" width ="100">|Team Technical Lead|Sandile Magagula|South Africa|Johannesburg|Crazzyson|
-|<img src="src/Team pictures/EJ Drost.JPG" align="centre" height="100" width ="100">|Team Member|Betsie Drost|South Africa|Pretoria|BetsieDrost|
-|<img src="src/logos/2grow2LogoDraft.png" align="centre" height="100" width ="100">|Team Member|Samukelo Jiyane|South Africa|Randburg|myjiyane|
-|<img src="src/Team pictures/Kamo.jpg" align="centre" height="100" width ="100">|Team Member|Kamohelo Mohlabula|South Africa|Bloemfontein|kxmo-ai|
-|<img src="src/logos/2grow2LogoDraft.png" align="centre" height="100" width ="100">|Team Member|Phumlani Langa|South Africa|Soweto|Github|
-|<img src="src/Team pictures/Dibwe.jpg" align="centre" height="100" width ="100">|Team Member|Dibwe Kalangu|South Africa|Johannesburg|leanny01|
-|<img src="src/logos/2grow2LogoDraft.png" align="centre" height="100" width ="100">|Team Member|Bruce Kotsi|South Africa|Soweto|JR96|
-|<img src="src/logos/2grow2LogoDraft.png" align="centre" height="100" width ="100">|Team Member|Khumo Letlape|South Africa|Rustenburg|github|
+|<img src="src/images/logos/2grow2LogoDraft.png" align="centre" height="100" width ="100">|Andela Team Assistant|Jida|Country|City|Github|
+|<img src="src/images/Team pictures/Miami.jpg" align="centre" height="100" width ="100">|Team Mentor|Miami Larry|Kenya|City|miami78|
+|<img src="src/images/Team pictures/Sandile.jpg" align="centre" height="100" width ="100">|Team Technical Lead|Sandile Magagula|South Africa|Johannesburg|Crazzyson|
+|<img src="src/images/Team pictures/EJ Drost.JPG" align="centre" height="100" width ="100">|Team Member|Betsie Drost|South Africa|Pretoria|BetsieDrost|
+|<img src="src/images/logos/2grow2LogoDraft.png" align="centre" height="100" width ="100">|Team Member|Samukelo Jiyane|South Africa|Randburg|myjiyane|
+|<img src="src/images/Team pictures/Kamo.jpg" align="centre" height="100" width ="100">|Team Member|Kamohelo Mohlabula|South Africa|Bloemfontein|kxmo-ai|
+|<img src="src/images/logos/2grow2LogoDraft.png" align="centre" height="100" width ="100">|Team Member|Phumlani Langa|South Africa|Soweto|Github|
+|<img src="src/images/Team pictures/Dibwe.jpg" align="centre" height="100" width ="100">|Team Member|Dibwe Kalangu|South Africa|Johannesburg|leanny01|
+|<img src="src/images/logos/2grow2LogoDraft.png" align="centre" height="100" width ="100">|Team Member|Bruce Kotsi|South Africa|Soweto|JR96|
+|<img src="src/images/logos/2grow2LogoDraft.png" align="centre" height="100" width ="100">|Team Member|Khumo Letlape|South Africa|Rustenburg|github|
 
 
 	
