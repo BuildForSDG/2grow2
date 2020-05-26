@@ -1,68 +1,23 @@
 barebones setup for JavaScript / Node projects replace this with a one-liner phrase describing this project or app
 
 [![Codacy Badge](https://img.shields.io/badge/Code%20Quality-D-red)](https://img.shields.io/badge/Code%20Quality-D-red)
-Once this repo has been setup on Codacy by the TTL, replace the above badge with the actual one from the Codacy dashboard, and add the code coverage badge as well. This is mandatory
 
 
 ## About
-### BuildforSDG Challenge 2020 - Team 262 Project - 2Grow2
 
-This project originated as part of the BuildforSDG2020 Challenge with Andela and Facebook, which aims to give development experience to software developers in Africa.
+What is this project about. Ok to enrich here or the section above it with an image. 
 
-<img src="src/SDG Icons 2019_WEB/BuildforSDGlogo.jpg"  height = "300" style="text-align: center" >
+Once this repo has been setup on Codacy by the TTL, replace the above badge with the actual one from the Codacy dashboard, and add the code coverage badge as well. This is mandatory
 
-Teams could select a problem statement to build a solution for from a list of approved problem statements listed under the Sustainable Development Goals. 
+This is a simple JavaScript starter repo template for setting up your project. The setup contains
 
-These are our project logos: 
+- Jest: For runnung tests. We strongly recommend that JavaScript projects use Jest
 
-Color: <img src="src/logos/2grow2LogoDraft.png" align="center" height="200" width="200" >
+- Eslint & Prettier: For formatting code to match ESlint AirBnB coding standard. You might need to install the ESlint and Prettier plugins for your code editor to make the most of these utilities
 
-
-Black and white: <img src="src/logos/2grow2LogoBWonBlack.png" align="center" height="200" width="200" >
-
-White and black: <img src="src/logos/2grow2LogoBWonWhite.png" align="center" height="200" width="200" >
-			
 ## Why
-Our team selected the SDG 2, Problem Statement 1.
 
-
-## SDG PROBLEM STATEMENT SUMMARY
-###  Goal Summary
-
-<img src="src/SDG Icons 2019_WEB/E-WEB-Goal-02.png" height="300" width ="300">
-
-Goal 2 aims to end hunger and malnutrition by 2030, and to ensure access to safe, nutritious and sufficient food. 
-Our planet has provided us with tremendous resources, but unequal access and inefficient handling leaves millions of people malnourished. If we promote sustainable agriculture with modern technologiesand fair distribution systems, we
-can help sustain the whole world’s population and help make sure that nobody will ever suffer from hunger again.
-
-### Problem Statement 1
-Build a solution that can help to double productivity for small scale food producers in your community.				This solution could be financial or allow them access opportunities, bigger markets etc.
-
-### Project Overview
-Help double the productivity and Income of Small Scale Food Producers
-If your community can double the agricultural production and income of small-scale food producers, in particular women, family farmers, animal and fish farmers, by creating access to to land, technical knowledge, financial services, markets and opportunities then we can double the 	productivity and incomes of small-scale food producers.
-
-#### 1.1 Idea Description
-We can do a lot in alleviating poverty around our communities by employing cost-effective technology resources in a sustainable manner that will help double agricultural produce and correspondingly the incomes of small-scale farmers amongst our communities.   
-
-Let’s create a distributed farm produce aggregating network for local small scale farmers, including fish, animal and family run farming where our application will ‘funnel’ farm produce into categories and link these funnels to local supermarkets stores, food chain stores and restaurant chains. These food funnels will in turn boost demand from these large consumers since all best and fresh produce can be found in one platform. This directed demand from large customers will likely create incentives for smallscale farmers to produce more, and simultaneously boost incomes per unit of farmed land.  
-
-#### 1.2 How will the goal/aim be implemented? 
-Local commercial customers (i.e. supermarkets stores, food chain stores and restaurant chains) prefer fresh produce but problem is that they prefer to buy in bulk, and since small-scale farmers do not have capacity to produce at large scale, we need a system that will create a linked network amongst neighboring small -scale farmers and pool them together in one platform. From here customers can find available farm produce, and then order these in ‘large scale’. In this platform customer s will not only find ready farm produce but can see what will be ready in near future and thus be able to place orders in advance. This model will ensure that not only customers get fresh produce but ensures that farmers always meet the demand efficiently (e.g. mismatched farm produce, managed food surplus, appropriate quality standards ) and therefore likely boost their cashflow and their incomes.
-  
-#### 1.3 Who are the market participants? 
-Customers include supermarkets stores, food chain stores and restaurant chains.  
-Suppliers are your local farm produce, fish, and animal small-scale farmers. 
-Other involved parties will be transportation service providers and food aggregators/quality assurance providers.  
- 
-#### 1.4 Solution structure: 
-
-<img src="src/images/MainIdeaDiagram.PNG" align="centre" height="200" width ="600">
-
-
-#### 1.5 Does this project idea solve the stated problem statement?  
-Yes – This solution will assist small scale farmers to double both their produce and incomes by aggregating demand from commercial consumers and directing this to one pot. Agricultural produce is likely to be produced efficiently as consumers will be able to see what’s currently available on the market and what will be available in the near future and in what quantities
-
+Talk about what problem this solves, what SDG(s) and SGD targets it addresses and why these are imoirtant
 
 ## Usage
  How would someone use what you have built, include URLs to the deployed app, service e.t.c when you have it setup
@@ -70,27 +25,28 @@ Yes – This solution will assist small scale farmers to double both their produ
 
 ## Setup
 
+Install `npm` or `yarn` if you dont have any of them already installed. We recommend Yarn though.
+
+After clonning the repo to your local machine and moving into the cloned folder, Run `yarn install` to get started by installing dependencies. 
+
+`src/index.js` is the entry to the project and source code should go into the `src` folder.
+
+All tests should be written in the `__tests__' folder. There's a sample in there.
+
+This starter uses [Parcel](https://parceljs.org/getting_started.html) as the bundler. It is much simpler that WebPack and the others
+
 #### Hints
+
+- Run `npm install` or `yarn install` to get started. We'll assume you are using Yarn.
+- Install additional dependencies: `yarn add <dependency-name> [-D]`
+- Run tests: `yarn test`
+- Run tests with test coverage info: `yarn test:cover`
+- Check the codebase for proper syntax and formatting compliance: `yarn lint`
+- Run your app in local dev mode: `yarn start`. This puts the bundled app in a `dist` folder, set up a local web server at localhost:1234, and continues to watch for your code changes which it syncs with the local server. This means if you loaded the app in a browser, it will auto-refresh as you code along. Feel free to use whatever bundler best meets your needs. Parcel was only added as a sample and for those looking for a simple but effective solution to the hassle of bundlers. 
 
 ## Authors
 
-### BuildforSDG Challenge 2020 - Team 262 Project - 2Grow2
-### Team Members
-| Picture | Team Role | Name | Country | City |Github|
-|---------|-----------|------|---------|------|------|
-|<img src="src/logos/2grow2LogoDraft.png" align="centre" height="100" width ="100">|Andela Team Assistant|Jida|Country|City|Github|
-|<img src="src/Team pictures/Miami.jpg" align="centre" height="100" width ="100">|Team Mentor|Miami Larry|Kenya|City|miami78|
-|<img src="src/Team pictures/Sandile.jpg" align="centre" height="100" width ="100">|Team Technical Lead|Sandile Magagula|South Africa|Johannesburg|Crazzyson|
-|<img src="src/Team pictures/EJ Drost.JPG" align="centre" height="100" width ="100">|Team Member|Betsie Drost|South Africa|Pretoria|BetsieDrost|
-|<img src="src/logos/2grow2LogoDraft.png" align="centre" height="100" width ="100">|Team Member|Samukelo Jiyane|South Africa|Randburg|myjiyane|
-|<img src="src/Team pictures/Kamo.jpg" align="centre" height="100" width ="100">|Team Member|Kamohelo Mohlabula|South Africa|Bloemfontein|kxmo-ai|
-|<img src="src/logos/2grow2LogoDraft.png" align="centre" height="100" width ="100">|Team Member|Phumlani Langa|South Africa|Soweto|Github|
-|<img src="src/Team pictures/Dibwe.jpg" align="centre" height="100" width ="100">|Team Member|Dibwe Kalangu|South Africa|Johannesburg|leanny01|
-|<img src="src/logos/2grow2LogoDraft.png" align="centre" height="100" width ="100">|Team Member|Bruce Kotsi|South Africa|Soweto|JR96|
-|<img src="src/logos/2grow2LogoDraft.png" align="centre" height="100" width ="100">|Team Member|Khumo Letlape|South Africa|Rustenburg|github|
-
-
-	
+List the team behind this project. Their names linked to their Github, LinkedIn, or Twitter accounts should siffice. Ok to signify the role they play in the project, including the TTL and mentor
 
 ## Contributing
 If this project sounds interesting to you and you'd like to contribute, thank you!
