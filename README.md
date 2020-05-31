@@ -1,5 +1,6 @@
 barebones setup for JavaScript / Node projects replace this with a one-liner phrase describing this project or app
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/eddd4fd820664bc1a68fc8f67e5f114d)](https://app.codacy.com/gh/BuildForSDG/2grow2?utm_source=github.com&utm_medium=referral&utm_content=BuildForSDG/2grow2&utm_campaign=Badge_Grade_Dashboard)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/e2445974668b4372a2334ac3ac2139e9)](https://www.codacy.com/manual/miami78/psychic-barnacle?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=miami78/psychic-barnacle&amp;utm_campaign=Badge_Grade)
 Once this repo has been setup on Codacy by the TTL, replace the above badge with the actual one from the Codacy dashboard, and add the code coverage badge as well. This is mandatory
 
