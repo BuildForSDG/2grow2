@@ -1,13 +1,9 @@
-import app from '../src/index';
+const request = require('supertest');
+const app = require('../src/app');
 
-describe('app module', () => {
-  test('it exists', async () => {
-    expect(app).toBeDefined();
-  });
-
-  test('it returns program name with SDGs', async () => {
-    const result = await app();
-    const sdgPos = (result || '').indexOf('SDG');
-    expect(sdgPos).toBeGreaterThanOrEqual(0);
+describe('Test the root path', () => {
+  test('It should response the GET method', async () => {
+    const response = await request(app).get('/');
+    expect(response.statusCode).toBe(200);
   });
 });
