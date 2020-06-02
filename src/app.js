@@ -1,3 +1,10 @@
-const app = async () => '#BuildforSDG';
+// app.js
+const express = require('express');
 
-export default app;
+const app = express();
+
+app.get('/', (req, res) => {
+  res.status(200).send('Hello World!');
+});
+
+module.exports = app;
