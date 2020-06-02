@@ -13,7 +13,6 @@ appearance, race, religion, or sexual identity and orientation.
 
 Examples of behavior that contributes to creating a positive environment
 include:
-
   * Using welcoming and inclusive language
   * Being respectful of differing viewpoints and experiences
   * Gracefully accepting constructive criticism
@@ -21,7 +20,6 @@ include:
   * Showing empathy towards other community members
 
 Examples of unacceptable behavior by participants include:
-
 * The use of sexualized language or imagery and unwelcome sexual attention or advances
 * Trolling, insulting/derogatory comments, and personal or political attacks
 * Public or private harassment
@@ -52,7 +50,7 @@ further defined and clarified by project maintainers.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at '[contribution contact]'. All
+reported by contacting the project team at [contribution contact]. All
 complaints will be reviewed and investigated and will result in a response that
 is deemed necessary and appropriate to the circumstances. The project team is
 obligated to maintain confidentiality with regard to the reporter of an incident.
@@ -65,13 +63,13 @@ members of the project's leadership.
 ## Attribution
 
 This Code of Conduct is adapted from the  Contributor Covenant,  version 1.4,
-available at  '[contributor covenant]' '[homepage]'.
+available at  [contributor covenant] [homepage].
 
-For answers to common questions about this code of conduct, see '[faq link]'.
+For answers to common questions about this code of conduct, see [faq][faq-link].
 
-## Definitions
+<!-- Definitions -->
 
-[contribution contact] : <buildforsdg@andela.com>
-[faq link] : <https://www.contributor-covenant.org/faq/>
-[contributor covenant] : <https://www.contributor-covenant.org/version/1/4/code-of-conduct.html/>
-[homepage] : <https://www.contributor-covenant.org/>
+[contribution contact] : buildforsdg@andela.com
+[faq link] : https://www.contributor-covenant.org/faq
+[contributor covenant] : https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
+[homepage] : https://www.contributor-covenant.org
