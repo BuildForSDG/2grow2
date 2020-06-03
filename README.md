@@ -71,7 +71,7 @@ Yes – This solution will assist small scale farmers to double both their produ
 
 | Picture | Team Role | Name | Country | City |Github|
 |---------|-----------|------|---------|------|------|
-|![](src/images/logos/2grow2LogoDraft.png) align="centre" height="100" width ="100"|Andela Team Assistant|Jida|Country|City|Github|
+|![logo, no picture of jida](src/images/logos/2grow2LogoDraft.png) align="centre" height="100" width ="100"|Andela Team Assistant|Jida|Country|City|Github|
 |<img src="src/images/Team pictures/Miami.jpg" align="centre" height="100" width ="100">|Team Mentor|Miami Larry|Kenya|City|miami78|
 |<img src="src/images/Team pictures/Sandile.jpg" align="centre" height="100" width ="100">|Team Technical Lead|Sandile Magagula|South Africa|Johannesburg|Crazzyson|
 |<img src="src/images/Team pictures/EJ Drost.JPG" align="centre" height="100" width ="100">|Team Member|Betsie Drost|South Africa|Pretoria|BetsieDrost|
@@ -79,7 +79,7 @@ Yes – This solution will assist small scale farmers to double both their produ
 |<img src="src/images/Team pictures/Kamo.jpg" align="centre" height="100" width ="100">|Team Member|Kamohelo Mohlabula|South Africa|Bloemfontein|kxmo-ai|
 |<img src="src/images/logos/2grow2LogoDraft.png" align="centre" height="100" width ="100">|Team Member|Phumlani Langa|South Africa|Soweto|Github|
 |<img src="src/images/Team pictures/Dibwe.jpg" align="centre" height="100" width ="100">|Team Member|Dibwe Kalangu|South Africa|Johannesburg|leanny01|
-|<img src="src/images/logos/2grow2LogoDraft.png" align="centre" height="100" width ="100">|Team Member|Bruce Kotsi|South Africa|Soweto|JR96|
+|<img src="src/images/logos/2grow2LogoDraft.png" align="centre" height="100" width ="100">|Team Member|Bruce Kotsi|South Africa|Midrand|JR96|
 |<img src="src/images/logos/2grow2LogoDraft.png" align="centre" height="100" width ="100">|Team Member|Khumo Letlape|South Africa|Rustenburg|github|
 
 ## Contributing
