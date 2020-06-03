@@ -65,21 +65,10 @@ members of the project's leadership.
 This Code of Conduct is adapted from the  Contributor Covenant,  version 1.4,
 available at [contributor covenant][homepage] .
 
-This is a test sentence for inline links: [Visit GitHub!](https://www.github.com)
-
-This is a test sentence for referenced links: Here's [yet another link][another-link].
-
-This test a link to another document in the project: [read our readme.md][infile]
-
 For answers to common questions about this code of conduct, see [faq][faq-link] .
-
 
 [faq-link]: https://www.contributor-covenant.org/faq
 
 [contributor covenant]: https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
 
 [homepage]: https://www.contributor-covenant.org
-
-[another-link]: https://www.google.com target="_blank"
-
-[infile]: README.md
