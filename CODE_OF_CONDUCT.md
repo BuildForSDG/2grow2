@@ -80,6 +80,6 @@ For answers to common questions about this code of conduct, see [faq][faq-link] 
 
 [homepage]: https://www.contributor-covenant.org
 
-[another-link]: https://www.google.com
+[another-link]: https://www.google.com target="_blank"
 
 [infile]: README.md
