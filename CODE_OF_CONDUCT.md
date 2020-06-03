@@ -68,7 +68,4 @@ available at [contributor covenant][homepage] .
 For answers to common questions about this code of conduct, see [faq][faq-link] .
 
 [faq-link]: https://www.contributor-covenant.org/faq
-
-[contributor covenant]: https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
-
 [homepage]: https://www.contributor-covenant.org
