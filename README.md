@@ -104,13 +104,12 @@ To be completed
 
 | Picture | Team Role | Name | Country | City |Github|
 |---------|-----------|------|---------|------|------|
-|![logo, no picture of jida](src/html/images/fumanalogos/fumanalogo.png) align="centre" height="100" width ="100"|Andela Team Assistant|Jida|Country|City|Github|
-|<img src="src/html/images/Team pictures/Miami.jpg" align="centre" height="100" width ="100">|Team Mentor|Miami Larry|Kenya|City|miami78|
+|<img src="src/html/images/fumanalogos/fumanalogo.png" align="centre" height="100" width ="100">|Andela Team Assistant|Jida|Country|City|Github|
+|<img src="src/html/images/Team pictures/Miami.jpg" align="centre" height="100" width ="100">|Team Mentor|Miami Larry|Kenya|Nairobi|miami78|
 <img src="src/html/images/Team pictures/Dibwe.jpg" align="centre" height="100" width ="100">|Team Member|Dibwe Kalangu|South Africa|Johannesburg|leanny01|
-|<img src="src/html/images/Team pictures/EJ Drost.JPG" align="centre" height="100" width ="100">|Team Member|
-Betsie Drost|South Africa|Pretoria|BetsieDrost|
+|<img src="src/html/images/Team pictures/EJ Drost.JPG" align="centre" height="100" width ="100">|Team Member|Betsie Drost|South Africa|Pretoria|BetsieDrost|
 
-
+#### Other team members: 
 
 We also wish to thank our team members who could for various reasons not participate in the final project: 
 
