@@ -14,7 +14,7 @@ This is our project:
 
 "Fumana" is a sesotho work meaning "find".   Our project is called "Fumana Work" and aims to increase access to jobs for the poorest of the poor.
 
-Color: <img src="src/images/fumanalogos/fumanalogo.png" align="center" height="200" width="200" >
+Color: <img src="src/html/images/fumanalogos/fumanalogo.png" align="center" height="200" width="200" >
 
 
 ## Why
@@ -24,7 +24,7 @@ Our team selected the SDG 1, Problem Statement 1.
 
 ### Goal Summary
 
-<img src="src/images/SDG Icons 2019_WEB/E-WEB-Goal-01.png" height="300" width ="300">
+<img src="src/html/images/SDG Icons 2019_WEB/E-WEB-Goal-01.png" height="300" width ="300">
 
 Goal 1 aims to end all forms of poverty, including extreme poverty (those living under $1.25 per day)
 and relative poverty (defined at a national level). Eradicating poverty is not a task of charity, 
@@ -103,10 +103,10 @@ To be completed
 | Picture | Team Role | Name | Country | City |Github|
 |---------|-----------|------|---------|------|------|
 |![logo, no picture of jida](src/images/logos/2grow2LogoDraft.png) align="centre" height="100" width ="100"|Andela Team Assistant|Jida|Country|City|Github|
-|<img src="src/images/Team pictures/Miami.jpg" align="centre" height="100" width ="100">|Team Mentor|Miami Larry|Kenya|City|miami78|
-|<img src="src/images/Team pictures/Sandile.jpg" align="centre" height="100" width ="100">|Team Technical Lead|Sandile Magagula|South Africa|Johannesburg|Crazzyson|
-|<img src="src/images/Team pictures/EJ Drost.JPG" align="centre" height="100" width ="100">|Team Member|Betsie Drost|South Africa|Pretoria|BetsieDrost|
-|<img src="src/images/logos/2grow2LogoDraft.png" align="centre" height="100" width ="100">|Team Member||<img src="src/images/Team pictures/Dibwe.jpg" align="centre" height="100" width ="100">|Team Member|Dibwe Kalangu|South Africa|Johannesburg|leanny01|
+|<img src="src/html/images/Team pictures/Miami.jpg" align="centre" height="100" width ="100">|Team Mentor|Miami Larry|Kenya|City|miami78|
+|<img src="src/html/images/Team pictures/Sandile.jpg" align="centre" height="100" width ="100">|Team Technical Lead|Sandile Magagula|South Africa|Johannesburg|Crazzyson|
+|<img src="src/html/images/Team pictures/EJ Drost.JPG" align="centre" height="100" width ="100">|Team Member|Betsie Drost|South Africa|Pretoria|BetsieDrost|
+|<img src="src/html/images/logos/2grow2LogoDraft.png" align="centre" height="100" width ="100">|Team Member||<img src="src/html/images/Team pictures/Dibwe.jpg" align="centre" height="100" width ="100">|Team Member|Dibwe Kalangu|South Africa|Johannesburg|leanny01|
 
 
 ## Contributing
