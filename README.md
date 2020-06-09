@@ -10,11 +10,13 @@ This project originated as part of the BuildforSDG2020 Challenge with Andela and
 
 Teams could select a problem statement to build a solution for from a list of approved problem statements listed under the Sustainable Development Goals.
 
-This is our project:
+### This is our project:
 
-"Fumana" is a sesotho work meaning "find".   Our project is called "Fumana Work" and aims to increase access to jobs for the poorest of the poor.
+ Our project is called "Fumana Work" and aims to increase access to jobs for the poorest of the poor.
 
-Color: <img src="src/html/images/fumanalogos/fumanalogo.png" align="center" height="200" width="200" >
+"Fumana" is a sesotho work meaning "find".  
+
+<img src="src/html/images/fumanalogos/fumanalogo.png" align="center" height="300" width="300" >
 
 
 ## Why
@@ -102,12 +104,21 @@ To be completed
 
 | Picture | Team Role | Name | Country | City |Github|
 |---------|-----------|------|---------|------|------|
-|![logo, no picture of jida](src/images/logos/2grow2LogoDraft.png) align="centre" height="100" width ="100"|Andela Team Assistant|Jida|Country|City|Github|
+|![logo, no picture of jida](src/html/images/fumanalogos/fumanalogo.png) align="centre" height="100" width ="100"|Andela Team Assistant|Jida|Country|City|Github|
 |<img src="src/html/images/Team pictures/Miami.jpg" align="centre" height="100" width ="100">|Team Mentor|Miami Larry|Kenya|City|miami78|
-|<img src="src/html/images/Team pictures/Sandile.jpg" align="centre" height="100" width ="100">|Team Technical Lead|Sandile Magagula|South Africa|Johannesburg|Crazzyson|
-|<img src="src/html/images/Team pictures/EJ Drost.JPG" align="centre" height="100" width ="100">|Team Member|Betsie Drost|South Africa|Pretoria|BetsieDrost|
-|<img src="src/html/images/logos/2grow2LogoDraft.png" align="centre" height="100" width ="100">|Team Member||<img src="src/html/images/Team pictures/Dibwe.jpg" align="centre" height="100" width ="100">|Team Member|Dibwe Kalangu|South Africa|Johannesburg|leanny01|
+<img src="src/html/images/Team pictures/Dibwe.jpg" align="centre" height="100" width ="100">|Team Member|Dibwe Kalangu|South Africa|Johannesburg|leanny01|
+|<img src="src/html/images/Team pictures/EJ Drost.JPG" align="centre" height="100" width ="100">|Team Member|
+Betsie Drost|South Africa|Pretoria|BetsieDrost|
 
+
+
+We also wish to thank our team members who could for various reasons not participate in the final project: 
+
+Thank you very much to Sandile Magagula for the initial project setup! 
+
+Samukelo Jiyane, Kamohelo Mohlabula ,  Phumlani Llanga, Bruce Kotsi, Khumo Letlape.  It was great meeting all of you and we appreciate the time you committed to the project!
+
+Maybe we can still build the 2grow2 project together one day!  
 
 ## Contributing
 If this project sounds interesting to you and you'd like to contribute, thank you!
@@ -117,8 +128,14 @@ First, you can send a mail to [buildforsdg@andela.com](mailto:buildforsdg@andela
 3.  area three (e.g here is the zoom link to our end-of sprint webinar, join and provide feedback as a stakeholder if you can)
 
 ## Acknowledgements
+Thank you to Andela and Facebook for giving us the opportunity to work on this project. 
+
+Miami Larry , our team mentor - thank you for all your patience and advice! 
 
 Did you use someone else’s code?
+
+
+
 Do you want to thank someone explicitly?
 Did someone’s blog post spark off a wonderful idea or give you a solution to nagging problem?
 The labour bureau at Lynnwoodrif Dutch Reformed Church in Pretoria Gauteng sparked the idea for the project.
