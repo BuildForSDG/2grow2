@@ -2,6 +2,7 @@ import React from 'react';
 import Presentation from './Presentation';
 
 const Bureau = () => {
+
     const bureauData = {
         logo: 'logo url',
         number: 'xxxxx',

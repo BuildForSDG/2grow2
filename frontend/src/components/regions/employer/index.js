@@ -2,9 +2,10 @@ import React from 'react';
 import Presentation from './Presentation';
 
 const Employer = () => {
+
     const employerProfile = {
-        name: 'name',
-        organizationType: 'type',
+        orgName: 'name',
+        organizationType: 'type', // does this have to do with organization the employer is affiliated to?
         regNumberOrID: 'registration number or id',
         address: '',
         website: 'website',
@@ -13,7 +14,7 @@ const Employer = () => {
         operationalHour: '0h:00min to 23h:55min',
         about: 'A very long text '
     }
-    return < Presentation />
+    return < Presentation data={employerProfile}/>
 }
 
 export default Employer;
