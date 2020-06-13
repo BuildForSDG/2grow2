@@ -17,7 +17,7 @@ const Bureau = () => {
     }
 
 
-    }
+
 return < Presentation data={bureauData}/>
 }
 
