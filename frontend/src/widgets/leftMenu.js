@@ -27,7 +27,11 @@ const useStyles = makeStyles({
         top: '1em',
         left: '1em',
         backgroundColor:'#fff'
-    }
+  },
+  common: {
+    position: 'relative',
+    marginTop:'5em'
+  }
 });
 
 export default function TemporaryDrawer() {
@@ -57,7 +61,7 @@ export default function TemporaryDrawer() {
       onKeyDown={toggleDrawer(anchor, false)}
     >
       <List>
-        {['Inbox', 'Starred', 'Send email', 'Drafts'].map((text, index) => (
+        {['Dashboard', 'Information', 'Employers', 'Job Seekers'].map((text, index) => (
           <ListItem button key={text}>
             <ListItemIcon>{index % 2 === 0 ? <InboxIcon /> : <MailIcon />}</ListItemIcon>
             <ListItemText primary={text} />
@@ -65,14 +69,15 @@ export default function TemporaryDrawer() {
         ))}
       </List>
       <Divider />
-      <List>
-        {['All mail', 'Trash', 'Spam'].map((text, index) => (
+      <List className={classes.common}>
+        {['Site Settings','Legal','Logout'].map((text, index) => (
           <ListItem button key={text}>
             <ListItemIcon>{index % 2 === 0 ? <InboxIcon /> : <MailIcon />}</ListItemIcon>
             <ListItemText primary={text} />
           </ListItem>
         ))}
       </List>
+
     </div>
   );
 

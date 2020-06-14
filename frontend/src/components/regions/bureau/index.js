@@ -1,5 +1,5 @@
 import React from 'react';
-import Presentation from './Presentation';
+import Presentation from './presentation';
 
 const Bureau = () => {
 
