@@ -3,12 +3,13 @@ import logo from './logo.svg';
 import './App.css';
 import LeftMenu from './widgets/leftMenu'
 import Bureau from './components/regions/bureau'
+import Jobs from './components/regions/jobs'
 
 function App() {
   return (
     <div className="App">
       <LeftMenu />
-      <Bureau />
+      <Jobs />
 
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
