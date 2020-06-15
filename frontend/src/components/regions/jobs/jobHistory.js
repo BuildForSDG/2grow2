@@ -27,15 +27,14 @@ const Transition = React.forwardRef(function Transition(props, ref) {
   return <Slide direction="up" ref={ref} {...props} />;
 });
 
-export default History = ({handleClose, open})=> {
+export default History = ({handleClose, open,job})=> {
   const classes = useStyles();
+  const jobHistory = job[0].history
+  const jobId = job[0].Id
 
 
   return (
     <div>
-      {/* <Button variant="outlined" color="primary" onClick={handleClickOpen}>
-        Open full-screen dialog
-      </Button> */}
       <Dialog fullScreen open={open} onClose={handleClose} TransitionComponent={Transition}>
         <AppBar className={classes.appBar}>
           <Toolbar>
@@ -43,16 +42,24 @@ export default History = ({handleClose, open})=> {
               <CloseIcon />
             </IconButton>
             <Typography variant="h6" className={classes.title}>
-              Job ID here
+              Job ID: {jobId}
             </Typography>
             <Button autoFocus color="inherit" onClick={handleClose}>
-              save
+              {/* save */}
             </Button>
           </Toolbar>
         </AppBar>
 
-
-              Job details to display here
+        <List>
+          {jobHistory.map((history, index) => (
+            <div key={index}>
+              <ListItem button>
+                <ListItemText primary={history.date} secondary={history.event} />
+              </ListItem>
+              <Divider />
+            </div>
+          ))}
+        </List>
       </Dialog>
     </div>
   );

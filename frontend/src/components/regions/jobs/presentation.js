@@ -68,7 +68,7 @@ const Presentation = ({data,handleClose,handleClickOpen})=> {
           {rows.map((row) => (
             <StyledTableRow key={row.Id}>
               <StyledTableCell component="th" scope="row">
-                <a href="#" onClick={handleClickOpen}>{row.Id}</a>
+                <a href="#" onClick={(e)=> handleClickOpen(e)}>{row.Id}</a>
               </StyledTableCell>
               <StyledTableCell align="right">{row.category}</StyledTableCell>
               <StyledTableCell align="right">{row.employerID}</StyledTableCell>

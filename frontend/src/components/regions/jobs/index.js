@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {useState} from 'react';
 import Presentation from './presentation';
 import History from './jobHistory';
 
@@ -14,7 +14,7 @@ const Jobs = () => {
             expiryDate: 'n/a',
             totalApplicants: 20,
             successfulJobSeekerID:['324E'],
-            history:[]
+            history:[{date:'14 - May - 2020',event:'Job loaded'},{date:'14 - May - 2020',event:'job filled'}]
 
         },
         {
@@ -24,10 +24,10 @@ const Jobs = () => {
             status: 'Pending',
             dateLoaded: '1 - May - 2020',
             dateFilled: '',
-            expiryDate: 'n/a',
+            expiryDate: '1 -june - 2020',
             totalApplicants: 2,
             successfulJobSeekerID:[],
-            history:[]
+            history:[{date:'1 - May - 2020',event:'job loaded'},{date:'1 -june - 2020',event:'job expired'}]
 
         },
         {
@@ -37,28 +37,34 @@ const Jobs = () => {
             status: 'Pending',
             dateLoaded: '7 - May - 2020',
             dateFilled: '',
-            expiryDate: 'n/a',
+            expiryDate: '7 - June -2020',
             totalApplicants: 0,
             successfulJobSeekerID:[],
-            history:[]
+            history:[{date:'7 - May - 2020',event:'job loaded'},{date:'7 -june - 2020',event:'job expired'}]
 
         }
 
     ]
-    const [open, setOpen] = React.useState(false);
+    const [open, setOpen] = useState(false);
+    const [jobId, setJobID] = useState('');
 
 
-    const handleClickOpen = () => {
-      setOpen(true);
+    const handleClickOpen = (e) => {
+        e.preventDefault()
+        const  id  = e.currentTarget.innerHTML
+        setOpen(true);
+        setJobID(id)
     };
 
     const handleClose = () => {
       setOpen(false);
     };
-    if (open) {
-        return <History open={open} handleClose={handleClose}/>
+    if (open && jobId) {
+        const job = jobData.filter(job => job.Id === jobId)
+
+        return <History open={open} handleClose={handleClose} job={job}/>
     }
-    return < Presentation data={jobData} handleClickOpen={handleClickOpen}/>
+    return < Presentation data={jobData} handleClickOpen={handleClickOpen} setJobID={setJobID}/>
 }
 
 export default Jobs;
