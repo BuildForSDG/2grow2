@@ -1,5 +1,6 @@
 import React from 'react';
 import Presentation from './presentation';
+import History from './jobHistory';
 
 const Jobs = () => {
     const jobData = [
@@ -44,7 +45,20 @@ const Jobs = () => {
         }
 
     ]
-    return < Presentation data={jobData} />
+    const [open, setOpen] = React.useState(false);
+
+
+    const handleClickOpen = () => {
+      setOpen(true);
+    };
+
+    const handleClose = () => {
+      setOpen(false);
+    };
+    if (open) {
+        return <History open={open} handleClose={handleClose}/>
+    }
+    return < Presentation data={jobData} handleClickOpen={handleClickOpen}/>
 }
 
 export default Jobs;
