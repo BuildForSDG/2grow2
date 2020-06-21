@@ -1,0 +1,185 @@
+
+/* This is a comment */
+body{
+background: #002060; 
+margin:0
+}
+
+* {
+		box-sizing: border-box;
+		font-family: calibri;
+}
+
+.logoblock{
+	outline: 5px solid purple;
+	/*background:	url("../images/fumanalogo.png")	no-repeat;*/
+	margin: 10px 10px 10px 10px;
+	height:280px;
+	width: 25%;
+	padding: 10px;
+	text-align: center;
+}
+
+.navbar {
+	float: right;
+	outline: 5px solid orange;
+	margin: 5px 5px;
+	height: 60px;
+	width: 25%;
+	float: right;
+	padding: 5px;
+}
+
+.textbox {
+	background-color: white;
+	margin:15px auto 15px;
+	padding: 10px 5% 10px 5%;
+	text-align: center;
+	width:  90%;
+	height: 95%;
+	border-style: none;
+	border-radius: 10px
+}
+
+
+.navbarbutton {
+	text-decoration: none;
+	/*outline: 5px solid pink;*/
+	margin: 5px 5px;
+	padding: 10px 10px;
+	width:  80px;
+	height: 95%;
+	border-style: 10px soft; /*This isn'nt working right!*/
+	border-color: #BF9000;
+	border-radius: 10px;
+	background-color: #E2F0D9;
+	color: #BF9000;
+}
+
+
+.navbarbutton a:hover {
+	text-decoration: none;
+	background-color: #002060;
+	
+}
+
+.navbarbutton a:active {
+	text-decoration: none;
+	background-color: #0070C0;
+	
+/* this only colors the background of the text - how do I change the color of the whole button?*/ 	
+}
+
+.sidebar {
+	outline: 5px solid green;
+	margin: 20px 5px;
+	padding: 10px 10px;
+	background: #BF9000;
+	height: 33%;
+	width: 25%;
+	border-style: none;
+	border-radius: 15px;
+}
+
+.sidebarbutton {
+	/*outline: 5px solid pink;*/
+	margin: 5px;
+	padding: 5px;
+	width:95%;
+	height: 40px;
+	border-style: none;
+	border-radius:10px;
+	background: #E2F0D9;
+}
+
+.sidebarbutton a:hover {
+	background: #002060;
+	text-decoration: none;
+}
+
+.sidebarbutton a:active {
+	background: #0070C0;
+	text-decoration: none;
+/* this only colors the background of the text - how do I change the color of the whole button?*/ 	
+}
+
+.shortlayout {
+	outline: 5px solid pink;
+	background-color: white;
+	margin: 20px auto 20px;
+	padding: 10px 10px;
+	height: auto;
+	width: 55%;
+	border-style: none;
+	border-radius: 10px;
+	text-align: center;
+}
+
+.bigbutton {
+	background-color: #002060;
+	color: #BF9000;
+	width: 95%;
+	text-align: center;
+	font-family:  ink free;
+	font-size: 40px; 
+	border: 2px solid #BF9000;
+	border-radius: 10px;
+	padding: 1%
+}
+
+.mediumbutton {
+	background-color: #E2F0D9;
+	color: #BF9000;
+	width: 90%;
+	text-align: center;
+	border: 2px solid #BF9000;
+	border-radius: 15px;
+	padding: 5px;
+}
+
+.actionbutton {
+	background-color: white;
+	color: #BF9000;
+	text-align: center;
+	border: 2px solid #BF9000;
+	border-radius: 10px;
+	width: 90%;
+}
+
+.actionlink{
+	background-color: white;
+	color: #BF9000;
+	text-align: center;
+}
+
+.submitbutton {
+	background-color: #BF9000;
+	color: white;
+	text-align: center;
+	border: 2px solid #BF9000;
+	border-radius: 10px;
+	width:90%;
+}
+
+.shortlayout{
+	background-color: pink;
+	margin:15px auto 15px;
+	padding: 10px 10px;
+	width: 45%;
+	height: auto;
+	font-family: calibri;
+	border-style: none;
+	border-radius: 10px;
+}
+
+.textbox h1{
+	text-align: center;
+	font-family: ink free;
+	font-size: 24px;
+}
+
+/* Use a media query to add a break point at 800px: */
+@media screen and (max-width:800px) {
+ .left  , .main, .right {width:100%;}
+}
+
