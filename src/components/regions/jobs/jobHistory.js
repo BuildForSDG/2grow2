@@ -1,66 +1,58 @@
 import React from 'react';
 import { makeStyles } from '@material-ui/core/styles';
-import Button from '@material-ui/core/Button';
-import Dialog from '@material-ui/core/Dialog';
-import ListItemText from '@material-ui/core/ListItemText';
-import ListItem from '@material-ui/core/ListItem';
-import List from '@material-ui/core/List';
+import Modal from '@material-ui/core/Modal';
+import Backdrop from '@material-ui/core/Backdrop';
+import Fade from '@material-ui/core/Fade';
 import Divider from '@material-ui/core/Divider';
-import AppBar from '@material-ui/core/AppBar';
-import Toolbar from '@material-ui/core/Toolbar';
-import IconButton from '@material-ui/core/IconButton';
-import Typography from '@material-ui/core/Typography';
-import CloseIcon from '@material-ui/icons/Close';
-import Slide from '@material-ui/core/Slide';
 
 const useStyles = makeStyles((theme) => ({
-  appBar: {
-    position: 'relative',
+  modal: {
+    display: 'flex',
+    alignItems: 'center',
+    justifyContent: 'center',
+
   },
-  title: {
-    marginLeft: theme.spacing(2),
-    flex: 1,
-  },
+  paper: {
+    backgroundColor: theme.palette.background.paper,
+    border: '2px solid #000',
+    boxShadow: theme.shadows[5],
+    padding: theme.spacing(2, 4, 3)
+  }
 }));
 
-const Transition = React.forwardRef(function Transition(props, ref) {
-  return <Slide direction="up" ref={ref} {...props} />;
-});
-
-export default History = ({handleClose, open,job})=> {
+export default History = ({ handleClose, open, job }) => {
   const classes = useStyles();
-  const jobHistory = job[0].history
-  const jobId = job[0].Id
-
+  const jobHistory = job[0].history;
+  const jobId = job[0].Id;
 
   return (
     <div>
-      <Dialog fullScreen open={open} onClose={handleClose} TransitionComponent={Transition}>
-        <AppBar className={classes.appBar}>
-          <Toolbar>
-            <IconButton edge="start" color="inherit" onClick={handleClose} aria-label="close">
-              <CloseIcon />
-            </IconButton>
-            <Typography variant="h6" className={classes.title}>
-              Job ID: {jobId}
-            </Typography>
-            <Button autoFocus color="inherit" onClick={handleClose}>
-              {/* save */}
-            </Button>
-          </Toolbar>
-        </AppBar>
+      <Modal
+        aria-labelledby="transition-modal-title"
+        aria-describedby="transition-modal-description"
+        className={classes.modal}
+        open={open}
+        onClose={handleClose}
+        closeAfterTransition
+        BackdropComponent={Backdrop}
+        BackdropProps={{
+          timeout: 500
+        }}
+      >
+        <Fade in={open}>
+          <div className={classes.paper}>
+            <h2 id="transition-modal-title">Job : {jobId}</h2>
+            {jobHistory.map((history, index) => (
+              <p id="transition-modal-description" key={index}>
 
-        <List>
-          {jobHistory.map((history, index) => (
-            <div key={index}>
-              <ListItem button>
-                <ListItemText primary={history.date} secondary={history.event} />
-              </ListItem>
-              <Divider />
-            </div>
-          ))}
-        </List>
-      </Dialog>
+                  <span>{history.date} | {history.event}</span>
+
+                <Divider />
+              </p>
+            ))}
+          </div>
+        </Fade>
+      </Modal>
     </div>
   );
-}
+};

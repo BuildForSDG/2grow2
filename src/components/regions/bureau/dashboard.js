@@ -1,6 +1,7 @@
 import React from 'react';
 import { makeStyles } from '@material-ui/core/styles';
 import Grid from '@material-ui/core/Grid';
+import Jobs from '../jobs'
 
 
 
@@ -25,7 +26,7 @@ const Presentation = () => {
         <Grid container spacing={2} className={classes.root}>
 
             <Grid>Charts will display here</Grid>
-            <Grid>Jobs will display here</Grid>
+            <Grid><Jobs/></Grid>
 
 
         </Grid>)

@@ -22,8 +22,8 @@ function App() {
       <div style={{marginTop:'3%',padding:'1%'}}>
         <Switch>
           <Route path="/dashboard">
-          {/* <Dashboard /> */}
-          <div style={{marginTop : '20%',marginLeft : "40%"}}>Dashboard under construction...</div>
+          <Dashboard />
+          {/* <div style={{marginTop : '20%',marginLeft : "40%"}}>Dashboard under construction...</div> */}
 
           </Route>
           <Route path="/information">

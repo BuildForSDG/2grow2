@@ -1,6 +1,7 @@
 import React from 'react';
 import Presentation from './presentation';
 
+
 const Bureau = () => {
 
     const bureauData = {
@@ -19,7 +20,7 @@ const Bureau = () => {
 
 
 
-return < Presentation data={bureauData}/>
+    return < Presentation data={bureauData} />
 }
 
 export default Bureau;
